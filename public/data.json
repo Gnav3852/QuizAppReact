@@ -1,0 +1,62 @@
+{
+  "quiz": [
+    {
+      "question": "Application Migration",
+      "options": {
+        "A": ["A", true, "q1a"],
+        "B": ["B", false, "q1b"],
+        "C": ["C", false, "q1c"],
+        "D": ["D", false, "q1d"],
+        "E": ["E", true, "q1e"]
+      }
+    },
+    {
+      "question": "Application Migration2",
+      "options": {
+        "A": ["A2", true, "q2a"],
+        "B": ["B2", true, "q2b"],
+        "C": ["C2", false, "q2c"],
+        "D": ["D2", false, "q2d"]
+      }
+    },
+    {
+      "question": "Application Migration3",
+      "options": {
+        "A": ["A3", false, "q3a"],
+        "B": ["B3", false, "q3b"],
+        "C": ["C3", false, "q3c"],
+        "D": ["D3", true, "q3d"]
+      }
+    }
+  ],
+  "aws": [
+    {
+      "question": "Application Migration",
+      "options": {
+        "A": ["A", false, "q1a"],
+        "B": ["B", false, "q1b"],
+        "C": ["C", false, "q1c"],
+        "D": ["D", false, "q1d"],
+        "E": ["E", false, "q1e"]
+      }
+    },
+    {
+      "question": "Application Migration2",
+      "options": {
+        "A": ["A2", false, "q2a"],
+        "B": ["B2", false, "q2b"],
+        "C": ["C2", false, "q2c"],
+        "D": ["D2", false, "q2d"]
+      }
+    },
+    {
+      "question": "Application Migration3",
+      "options": {
+        "A": ["A3", false, "q3a"],
+        "B": ["B3", false, "q3b"],
+        "C": ["C3", false, "q3c"],
+        "D": ["D3", false, "q3d"]
+      }
+    }
+  ]
+}
